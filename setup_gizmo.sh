@@ -349,8 +349,8 @@ clear
 
 echo ${LOG}
 echo "\nDone!\n"
-echo "SABNZBD is running on port 8081"
-echo "SickBeard is running on port 8080"
+echo "SABNZBD is running on port 8080"
+echo "SickBeard is running on port 8081"
 echo "Couchpotato is running on port 5050"
 echo "Headphones is running on port 8181"
 echo "LazyLibrarian is running on port 5299"
