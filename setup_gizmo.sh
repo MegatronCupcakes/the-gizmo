@@ -163,7 +163,7 @@ cat >${TEMPDIR}/autoProcessTV.cfg <<EOM
 # ssl=0             # http (ssl=0) (for https use ssl=1)
 
 [SickBeard]
-host=localhost
+host=thegizmo
 port=8081
 username=${GIZMO_NAME}
 password=${GIZMO_PASSWORD}
